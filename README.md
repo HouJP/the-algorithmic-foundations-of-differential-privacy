@@ -1,5 +1,7 @@
 # 差分隐私的算法基础
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 本书为差分隐私经典书籍《The Algorithmic Foundations of Differential Privacy》的中文译本。
 
 * **Cynthia Dwork, Aaron Roth（著）**
