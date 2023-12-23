@@ -14,6 +14,8 @@ layout:
 
 # 1. 差分隐私的承诺
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
+
 “差分隐私” 描述了数据持有者或管理者对数据主体的承诺：“无论是否存在其他研究、数据集或者信息源，您都不会因数据被用于任何研究或分析而受到不利影响”。理想情况下，满足差分隐私的数据库机制允许我 们对广泛的机密数据，在无需借助于数据净室 (data clean rooms)、数据使用协议、数据保护计划或受限视图的情况下，进行精准分析。尽管如此，数据的可用性最终还是会受到影响：信息恢复的基本规律(Foundamental Law of Information Recovery) 指出，对太多问题作出过于精准的回答会以惊人的方式摧毁隐私[^1]。差分隐私算法研究的目标是竭尽所能地延缓这一必然结果。
 
 差分隐私解决了这样一个“悖论”：在获取有效群体信息的同时不暴露个体信息。一个医学数据库可能会告诉我们吸烟致癌，从而影响保险公司对某个吸烟者长期医疗费用的评估。那么这一分析是否损害到了该吸烟者的利益？也许是的——如果保险公司知道他抽烟，他的保费可能会因此上涨。但他也可能因此获益——在了解了自身存在的健康风险后，他启动了戒烟计划。那吸烟者的隐私是否受到了损害？可以肯定的是，经过分析后对他的了解比分析前更多，但他的信息被 “泄露” 了吗？差分隐私认为事实并非如此，根本原因在于，**无论该吸烟者是否参与了此项调研**，此分析对他的影响都是相同的。影响吸烟者的是研究中得出的结论，而与他/她是否出现在该研究数据集中无关。
