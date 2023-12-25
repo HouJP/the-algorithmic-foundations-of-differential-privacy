@@ -16,9 +16,9 @@ layout:
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
 
-本书为差分隐私经典书籍《The Algorithmic Foundations of Differential Privacy》的中文译本。
+本书为差分隐私经典理论书籍[《The Algorithmic Foundations of Differential Privacy》](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)的中文译本。
 
 * **Cynthia Dwork, Aaron Roth（著）**
-* **侯建鹏（译）**
+* **[侯建鹏](https://www.linkedin.com/in/houjp/)（译）**
 
 <figure><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51XqQoJs3fL._SL1360_.jpg" alt="" width="375"><figcaption></figcaption></figure>
