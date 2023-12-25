@@ -14,6 +14,8 @@ layout:
 
 # 参考文献
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
+
 1. S. Arora, E. Hazan, and S. Kale. The multiplicative weights update method: A meta-algorithm and applications. Theory of Computing, 8(1):121–164, 2012.
 2. M.-F. Balcan, A. Blum, J. D. Hartline, and Y. Mansour. Mechanism design via machine learning. In Foundations of Computer Science, 2005. FOCS 2005. 46th Annual IEEE Symposium on, pages 605–614. IEEE, 2005.
 3. A. Beimel, S. P. Kasiviswanathan, and K. Nissim. Bounds on the sample complexity for private learning and private data release. In Theory of Cryptography, pages 437–454. Springer, 2010.
