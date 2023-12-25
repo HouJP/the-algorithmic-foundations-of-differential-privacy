@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 差分隐私的算法基础
+# 差分隐私算法基础
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
 
