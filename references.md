@@ -96,7 +96,7 @@ layout:
 78. R. Schapire and Y. Singer. Improved boosting algorithms using confidence-rated predictions. Machine Learning, 39:297–336, 1999.
 79. R. E. Schapire and Y. Freund. Boosting: Foundations and Algorithms. MIT Press, 2012.
 80. A. Smith and A. G. Thakurta. Differentially private feature selection via stability arguments, and the robustness of the lasso. In Proceedings of Conference on Learning Theory. 2013.
-81. <a id="81"></a>L. Sweeney. Weaving technology and policy together to maintain confidentiality. Journal of Law, Medicines Ethics, 25:98–110, 1997.
+81. L. Sweeney. Weaving technology and policy together to maintain confidentiality. Journal of Law, Medicines Ethics, 25:98–110, 1997.
 82. J. Ullman. Answering n{2+o(1)} counting queries with differential privacy is hard. In D. Boneh, T. Roughgarden, and J. Feigenbaum, editors, Symposium on Theory of Computing, pages 361–370. Association for Computing Machinery, 2013.
 83. L. G. Valiant. A theory of the learnable. Communications of the Association for Computing Machinery, 27(11):1134–1142, 1984.
 84. S. L. Warner. Randomized response: A survey technique for eliminating evasive answer bias. Journal of the American Statistical Association, 60(309):63–69, 1965.
