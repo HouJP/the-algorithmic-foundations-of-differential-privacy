@@ -14,7 +14,7 @@ layout:
 
 # 差分隐私算法基础
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Status](https://img.shields.io/badge/Github-Ready-blue.svg?logo=github)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Status](https://img.shields.io/badge/Github-Ready-lightgrey.svg?logo=github)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
 
 本书为差分隐私经典理论书籍[《The Algorithmic Foundations of Differential Privacy》](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)的中文译本。
 

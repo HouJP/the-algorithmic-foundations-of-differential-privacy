@@ -14,7 +14,7 @@ layout:
 
 # 1.1 面向隐私保护的数据分析
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Status](https://img.shields.io/badge/Github-Ready-blue.svg?logo=github)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Status](https://img.shields.io/badge/Github-Ready-lightgrey.svg?logo=github)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
 
 差分隐私是针对“如何在进行数据分析的同时保护隐私”这一问题提出的隐私定义。我们简明扼要地解决了其他方法在处理该问题时存在的一些不足。
 
