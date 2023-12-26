@@ -14,6 +14,6 @@ layout:
 
 # 2. 基本术语
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy) [![Status](https://img.shields.io/badge/Status-Editing-blue.svg)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC\_BY--NC--ND\_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=fff\&style=flat\&color=grey)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy) [![Status](https://img.shields.io/badge/Status-Ready-blue.svg)](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy)
 
 本章将介绍差分隐私的正式定义并阐述其意义，以及列举其一些关键特性。
