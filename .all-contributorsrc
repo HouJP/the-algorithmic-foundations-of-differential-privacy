@@ -4,6 +4,8 @@
   ],
   "imageSize": 100,
   "commit": false,
+  "linkToUsage": false,
+  "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [
