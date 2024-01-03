@@ -22,3 +22,12 @@ layout:
 * **[侯建鹏](https://www.linkedin.com/in/houjp/)（译）**
 
 <figure><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51XqQoJs3fL._SL1360_.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
