@@ -5,7 +5,6 @@
   "imageSize": 100,
   "commit": false,
   "linkToUsage": false,
-  "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [
@@ -14,6 +13,15 @@
       "name": "Jianpeng Hou",
       "avatar_url": "https://avatars.githubusercontent.com/u/11496630?v=4",
       "profile": "https://houjp.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "zxf2132",
+      "name": "zxf2132",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155223088?v=4",
+      "profile": "https://github.com/zxf2132",
       "contributions": [
         "doc"
       ]
