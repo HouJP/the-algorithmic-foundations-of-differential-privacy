@@ -1,4 +1,4 @@
-衷心感谢开源社区贡献者们对《差分隐私算法基础》工作的推动与改进！🎉
+衷心感谢以下开源社区贡献者们对《差分隐私算法基础》项目的推动与改进！🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

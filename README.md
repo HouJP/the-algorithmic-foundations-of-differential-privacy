@@ -23,4 +23,4 @@ layout:
 
 <figure><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51XqQoJs3fL._SL1360_.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-衷心感谢开源社区贡献者们对《差分隐私算法基础》工作的推动与改进！🎉
+衷心感谢[开源社区贡献者们](https://github.com/HouJP/the-algorithmic-foundations-of-differential-privacy/blob/main/CONTRIBUTORS.md)对《差分隐私算法基础》项目的推动与改进！🎉
