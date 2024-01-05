@@ -1,2 +1,6 @@
 # Ignore files from MacOS.
 .DS_Store
+
+# Ignore files from mdBook.
+book
+index.html

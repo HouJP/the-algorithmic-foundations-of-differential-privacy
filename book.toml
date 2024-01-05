@@ -1,0 +1,9 @@
+[book]
+authors = ["侯建鹏"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "差分隐私算法基础"
+
+[output.html]
+mathjax-support = true
