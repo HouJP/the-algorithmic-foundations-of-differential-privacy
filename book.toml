@@ -7,3 +7,4 @@ title = "差分隐私算法基础"
 
 [output.html]
 mathjax-support = true
+mathjax-config = "tex-mml-chtml"
