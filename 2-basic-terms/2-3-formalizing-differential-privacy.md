@@ -17,5 +17,5 @@
 **定义 2.1 (概率单纯形).** 对于给定的离散集合 \\(B\\)，其上的*概率单纯形* \\(\Delta(B)\\) 定义如下：
 
 \\[
-\Delta(B) = \{ x \in \mathbb{R}^{| B |}: x_i \ge 0 \text{ for all } i \text{ and } \sum_{i=1}^{| B |}{x_i} = 1 \}
+\Delta(B) = \\{ x \in \mathbb{R}^{| B |}: x_i \ge 0 \text{ for all } i \text{ and } \sum_{i=1}^{| B |}{x_i} = 1 \\}
 \\]
